@@ -3,3 +3,5 @@
 
 <h5>Team leader: Olaf Placha<br/>
 Other team members: Ahmet Yaylalioglu, Prashant Singh, Prashant Shukla</h5>
+
+<p align='center'>The Pipeline</p>
